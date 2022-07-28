@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsite_poc_github_io=self.webpackChunkdocsite_poc_github_io||[]).push([[2799],{5596:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/docsite-poc.github.io/blog/tags/docusaurus","allTagsPath":"/docsite-poc.github.io/blog/tags","count":4}')}}]);

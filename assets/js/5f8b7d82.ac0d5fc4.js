@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsite_poc_github_io=self.webpackChunkdocsite_poc_github_io||[]).push([[3596],{3622:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/docsite-poc.github.io/blog/tags/facebook","allTagsPath":"/docsite-poc.github.io/blog/tags","count":1}')}}]);
