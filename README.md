@@ -1,5 +1,7 @@
 # Website
 
+*Work on POC has stopped here and moved over to https://github.com/snowplow/snowplow.github.io.  The GitHub Pages site will be removed soon.*
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern
 static website generator.
 
