@@ -14,7 +14,7 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  trailingSlash: false,
+  trailingSlash: true,
   organizationName: 'Andy-Hay', // Usually your GitHub org/user name.
   projectName: 'docsite-poc.github.io', // Usually your repo name.
   deploymentBranch: 'main',
